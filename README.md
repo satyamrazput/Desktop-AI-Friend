@@ -1,6 +1,6 @@
 <h1>Desktop-AI-Friend</h1>
 
-<p><strong>Your-AI-Friend</strong> is a Python-based Virtual Personal Assistant (VPA) designed to make your daily tasks easier. It can interact with you through voice commands, open applications on your computer, browse the web, search for information online, tell you the time, provide weather updates, and much more!</p>
+<p><strong>Desktop-AI-Friend</strong> is a Python-based Virtual Personal Assistant (VPA) designed to make your daily tasks easier. It can interact with you through voice commands, open applications on your computer, browse the web, search for information online, tell you the time, provide weather updates, and much more!</p>
 
 <h2>Features</h2>
 <ul>
@@ -27,7 +27,7 @@ cd Your-AI-Friend
 </code></pre>
 
 <h2>Usage</h2>
-<p>Once the program is running, you can interact with <strong>Your-AI-Friend</strong> through voice commands. Here are some examples of what you can ask:</p>
+<p>Once the program is running, you can interact with <strong>Desktop-AI-Friend</strong> through voice commands. Here are some examples of what you can ask:</p>
 <ul>
     <li><strong>"Open Notepad"</strong>: Opens the Notepad application.</li>
     <li><strong>"Search for Python tutorials"</strong>: Searches the web for Python tutorials.</li>
