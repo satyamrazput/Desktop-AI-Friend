@@ -1,4 +1,4 @@
-<h1>Your-AI-Friend</h1>
+<h1>Desktop-AI-Friend</h1>
 
 <p><strong>Your-AI-Friend</strong> is a Python-based Virtual Personal Assistant (VPA) designed to make your daily tasks easier. It can interact with you through voice commands, open applications on your computer, browse the web, search for information online, tell you the time, provide weather updates, and much more!</p>
 
